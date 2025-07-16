@@ -1,6 +1,6 @@
 Of course. Here is the conceptual layout for the application and its project directory.
 
-<img src="./matrix/cec/image/logon.jpg">
+<img src="../image/logon.jpg">
 
 ### **Application Profile**
 
