@@ -1,0 +1,24 @@
+[Project]
+Version=3
+Api=fb (FreeBASIC),win (Windows)
+Description=bee script basic
+[Make]
+Recompile=0
+Module=Module Build,fbc -c
+Current=1
+1=Windows GUI,fbc -s gui
+2=Windows GUI (Debug),fbc -s gui -g
+[TabOrder]
+TabOrder=4,0,0,0,3,2
+[File]
+1=rokagg.Bas
+2=rokagg.Bi
+3=rokagg.Rc
+4=..\matrix\cec\app\dialog.bas
+[BreakPoint]
+4=
+2=
+[FileInfo]
+4=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2=0,89,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
